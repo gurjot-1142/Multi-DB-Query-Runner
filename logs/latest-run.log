@@ -1,0 +1,8 @@
+Mon Jun 29 23:44:01 IST 2026 | ========== SCRIPT STARTED ==========
+Mon Jun 29 23:44:01 IST 2026 | Connecting to Machine1
+Mon Jun 29 23:44:09 IST 2026 | Machine connection failed: Machine1
+Mon Jun 29 23:44:09 IST 2026 | Disconnected from Machine1
+Mon Jun 29 23:44:09 IST 2026 | Success Count: 0
+Mon Jun 29 23:44:09 IST 2026 | Failure Count: 0
+Mon Jun 29 23:44:09 IST 2026 | Execution Time: 8062 ms
+Mon Jun 29 23:44:09 IST 2026 | ========== SCRIPT COMPLETED ==========
